@@ -21,7 +21,7 @@ A simple and elegant weather application that allows users to check the current 
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
+git clone [https://github.com/Prabhat-16/WeatherApp]
 ```
 
 2. Open `index.html` in your web browser
